@@ -1,0 +1,179 @@
+h3 {
+  font-size: 25px;}
+h4 {
+  font-size: 20px;}
+.hide {
+   display: none;}
+.title {
+  font-family: 'Raleway', sans-serif, cursive;
+  font-weight: bold;
+  font-size: 50px;}
+.caption {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;}
+.byline {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;}
+.date {
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;}
+.introp {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;}
+.friday  {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;}
+.saturday {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;}
+.sunday {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;}
+.friday1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.friday1p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.naturalie {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #ffd800;}
+.friday2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.friday2p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.monicapondé {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: darkgrey;}
+.friday3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.friday3p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.pavãoazul {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #001dc1;}
+.friday4 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.friday4p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.saturday1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday1p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.museumoftomorrow {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #93b7f2;}
+.museudeartedorio {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #93b7f2;}
+.saturday2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday2p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.angudogomez {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #4f4427;}
+.saturday3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday3p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.barurca {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #08a30a}
+.saturday4 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday4p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.oro {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #ff7200}
+.saturday5 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.saturday5p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.colab {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #f2e5c1;}
+.sunday1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.sunday1p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.mosteriodesãobento {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  color: #ad030e;}
+.sunday2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.sunday2p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.sunday3 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;}
+.sunday3p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;}
+.lodging {
+  font-family: 'Raleway', sans-serif, cursive;}
+.lodgingp {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  text-indent: 35px;
+  margin-bottom: 10px;}
+.button {
+  font-family: 'Raleway', sans-serif, cursive;}
